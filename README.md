@@ -1,4 +1,4 @@
-### Hi there 👋 Im Kacper, a second year student of computer science!
+### Hi there 👋 Im Kacper, a third year student of computer science!
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Java and Docker
