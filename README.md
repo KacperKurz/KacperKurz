@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love crocheting in my spare time 🧶
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperKurz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperKurz&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies i'm using:
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/plasticine/48/000000/react.png"/><img src="https://img.icons8.com/dusk/48/000000/scala.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/>
