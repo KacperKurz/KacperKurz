@@ -22,4 +22,4 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 <a/>
 
-### Currently I'm more active on ![GitLab](https://gitlab.com/KacperKurz)
+### Currently I'm more active on [GitLab](https://gitlab.com/KacperKurz)
