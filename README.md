@@ -1,7 +1,7 @@
-### Hi there 👋 Im Kacper, a third year student of computer science!
+### Hi there 👋 Im Kacper!
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Java and Docker
+- 🌱 I’m currently learning Vulkan
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -21,5 +21,3 @@
 <a href ="https://www.linkedin.com/in/kacper-kurz-175707199/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 <a/>
-
-### Currently I'm more active on [GitLab](https://gitlab.com/KacperKurz)
